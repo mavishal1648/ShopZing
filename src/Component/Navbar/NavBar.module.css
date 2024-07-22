@@ -1,0 +1,9 @@
+
+.link {
+  color: black; /* Sets the default color to black */
+  text-decoration: none; /* Removes underline */
+}
+
+.link:hover {
+  color: red; /* Changes color to red on hover */
+}
